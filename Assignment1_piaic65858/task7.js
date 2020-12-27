@@ -1,0 +1,10 @@
+document.write("<h1>Rules for naming js variables </h1>");
+document.write("<br>");
+document.write("</br>");
+document.write("Varables name can only contain numbers,$ and _. For example : $ my_1stVariable");
+document.write("<br>");
+document.write("Variable mus begin with a letter, $ or_. For example : $name, _name or name");
+document.write("<br>");
+document.write("Variables names are case sensitive");
+document.write("<br>");
+document.write("Variables names should not be JS Keywords");
